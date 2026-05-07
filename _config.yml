@@ -38,6 +38,7 @@ exclude:
   - .gitignore
   - .github
   - img/grama.png
+  - vendor/
 
 # SEO / Social
 twitter:
