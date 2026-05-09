@@ -59,8 +59,6 @@
         rs_init_dir();
     }
 
-    /* Append settings HTML  */
-    rs_settings_append(true);
 
     /* Initialize dark/light mode toggler if the element is present  */
     if ($("#rs-theme-toggler").length > 0) {
